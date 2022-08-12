@@ -4,7 +4,7 @@
     "client-watch": "parcel watch ./client/index.html",
     "server-watch": "nodemon server/index.js",
     "dev": "concurrently --kill-others \"npm run server-watch\" \"npm run client-watch\"",
-    "build": "parcel build ./client/index.html",
+    "build": "parcel build index.html",
     "start": "npm run build && node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,9 @@
     "@parcel/transformer-react-refresh-wrap": "^2.2.0",
     "concurrently": "^7.0.0",
     "nodemon": "^2.0.15",
-    "parcel": "^2.2.0",
-    "parcel-resolver-ignore": "^2.0.0"
+    "parcel": "^2.6.2",
+    "parcel-resolver-ignore": "^2.0.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "express": "^4.17.2",
@@ -21,6 +22,6 @@
     "react-dom": "^17.0.2"
   },
   "parcelIgnore": [
-    "assets\/*.*"
+    "assets/*.*"
   ]
 }

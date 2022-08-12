@@ -1,107 +1,114 @@
 [
-    {
-        "title": "Lige ud til vejen",
-        "address":
-        {
-            "street": "Dommervænget",
-            "number": "6a, 2. th",
-            "zip": 4000,
-            "city": "Roskilde"
-        },
-        "price": 1000000,
-        "type": "house",
-        "rooms": 4,
-        "size": 120,
-        "img": "/assets/01.jpg"
+  {
+    "title": "Lige ud til vejen",
+    "address": {
+      "street": "Dommervænget",
+      "number": "6a, 2. th",
+      "zip": 4000,
+      "city": "Roskilde"
     },
-    {
-        "title": "Rustikt og lækkert",
-        "address":
-        {
-            "street": "Enghavevej",
-            "number": "8, 1. th",
-            "zip": 1674,
-            "city": "København V"
-        },
-        "price": 2500000,
-        "type": "flat",
-        "rooms": 2,
-        "size": 80,
-        "img": "/assets/02.jpg"
+    "price": 1000000,
+    "type": "house",
+    "rooms": 4,
+    "size": 120,
+    "img": "/assets/01.jpg"
+  },
+  {
+    "title": "Rustikt og lækkert",
+    "address": {
+      "street": "Enghavevej",
+      "number": "8, 1. th",
+      "zip": 1674,
+      "city": "København V"
     },
-    {
-        "title": "Langt fra byen",
-        "address":
-        {
-            "street": "Skodsborgvej",
-            "number": "318, st. th",
-            "zip": 2850,
-            "city": "Nærum"
-        },
-        "price": 1000000,
-        "type": "terrace_house",
-        "rooms": 5,
-        "size": 140,
-        "img": "/assets/03.jpg"
+    "price": 2500000,
+    "type": "flat",
+    "rooms": 2,
+    "size": 80,
+    "img": "/assets/02.jpg"
+  },
+  {
+    "title": "Langt fra byen",
+    "address": {
+      "street": "Skodsborgvej",
+      "number": "318, st. th",
+      "zip": 2850,
+      "city": "Nærum"
     },
-    {
-        "title": "I hjertet af centrum",
-        "address":
-        {
-            "street": "J.M. Mørks Gade",
-            "number": "5",
-            "zip": 8000,
-            "city": "Aarhus C"
-        },
-        "price": 7000000,
-        "type": "villa",
-        "rooms": 12,
-        "size": 800,
-        "img": "/assets/04.jpg"
+    "price": 1000000,
+    "type": "terrace_house",
+    "rooms": 5,
+    "size": 140,
+    "img": "/assets/03.jpg"
+  },
+  {
+    "title": "I hjertet af centrum",
+    "address": {
+      "street": "J.M. Mørks Gade",
+      "number": "5",
+      "zip": 8000,
+      "city": "Aarhus C"
     },
-    {
-        "title": "Værtshus i stuen",
-        "address":
-        {
-            "street": "Strandgade",
-            "number": "24d, 1. tv",
-            "zip": 1401,
-            "city": "København K"
-        },
-        "price": "1200000",
-        "type": "flat",
-        "rooms": 2,
-        "size": 65,
-        "img": "/assets/05.jpg"
+    "price": 7000000,
+    "type": "villa",
+    "rooms": 12,
+    "size": 800,
+    "img": "/assets/04.jpg"
+  },
+  {
+    "title": "Værtshus i stuen",
+    "address": {
+      "street": "Strandgade",
+      "number": "24d, 1. tv",
+      "zip": 1401,
+      "city": "København K"
     },
-    {
-        "title": "Tyverisikret",
-        "address":
-        {
-            "street": "Møllehøj",
-            "number": "10, 6. 3",
-            "zip": 7400,
-            "city": "Herning"
-        },
-        "price": "11000000",
-        "type": "terrace_house",
-        "rooms": 1,
-        "size": 30,
-        "img": "/assets/07.jpg"
+    "price": "1200000",
+    "type": "flat",
+    "rooms": 2,
+    "size": 65,
+    "img": "/assets/05.jpg"
+  },
+  {
+    "title": "Tyverisikret",
+    "address": {
+      "street": "Møllehøj",
+      "number": "10, 6. 3",
+      "zip": 7400,
+      "city": "Herning"
     },
-    {
-        "title": "Citroner i haven",
-        "address":
-        {
-            "street": "Strandlodsvej",
-            "number": "11n, 4. tv",
-            "zip": 2300,
-            "city": "København S"
-        },
-        "price": "200000",
-        "type": "house",
-        "rooms": 1,
-        "size": 10,
-        "img": "/assets/08.jpg"
-    }
+    "price": "11000000",
+    "type": "terrace_house",
+    "rooms": 1,
+    "size": 400,
+    "img": "/assets/06.jpg"
+  },
+  {
+    "title": "Luksus for hobitter",
+    "address": {
+      "street": "Søndre Molevej",
+      "number": "6b, 3. 8",
+      "zip": 4600,
+      "city": "Køge"
+    },
+    "price": 6000000,
+    "type": "Rækkehus",
+    "rooms": 4,
+    "size": 30,
+    "img": "/assets/07.jpg"
+  },
+  {
+    "title": "Citroner i haven",
+    "address": {
+      "street": "Strandlodsvej",
+      "number": "11n, 4. tv",
+      "zip": 2300,
+      "city": "København S"
+    },
+    "price": "200000",
+    "type": "house",
+    "rooms": 1,
+    "size": 10,
+    "img": "/assets/08.jpg"
+  }
 ]
